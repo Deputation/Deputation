@@ -7,3 +7,7 @@ Hello there, I'm Deputation, a Computer Science student working to make the gami
 📫 How to reach me: deputation8@protonmail.com
 
 😄 Pronouns: He/Him
+
+If you would like to support me and my future projects, buy me a pizza! :)
+
+XMR: 87q5GsGgT2bc7uvJSpfvQneJWFW5DPqWoh3YkDrne4j6Ury6JZXCeQuYvw8G51whrk6YTLf35P9D7HCynJE79nLjLPfMAC9
