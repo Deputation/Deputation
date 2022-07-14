@@ -11,3 +11,4 @@ Hello there, I'm Deputation, a Computer Science student working to make the gami
 If you would like to support me and my future projects, buy me a pizza! :)
 
 XMR: 87q5GsGgT2bc7uvJSpfvQneJWFW5DPqWoh3YkDrne4j6Ury6JZXCeQuYvw8G51whrk6YTLf35P9D7HCynJE79nLjLPfMAC9
+BTC: bc1qcqj0r5a8xdufg8zmuwv4d27e76p702k37xdq7c
