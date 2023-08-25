@@ -14,8 +14,8 @@ XMR:
 87q5GsGgT2bc7uvJSpfvQneJWFW5DPqWoh3YkDrne4j6Ury6JZXCeQuYvw8G51whrk6YTLf35P9D7HCynJE79nLjLPfMAC9
 
 BTC:
-bc1qcqj0r5a8xdufg8zmuwv4d27e76p702k37xdq7c
+bc1qh5qs2a8yk4q2wq3r4xcrl8c53fwhc72lldrtyc
 
-ETH:
-0x8d5061CaDA35cc448Cdb391d88C7548848742A41
+LTC:
+ltc1qzy3x3zkgjh666fmw8w69l6ljx34qk8npr4cysx
 
