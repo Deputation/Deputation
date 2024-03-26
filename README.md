@@ -4,6 +4,6 @@ Hello there, I'm Deputation, a Computer Science student working to make the gami
 
 💬 Ask me about anything you like!
 
-📫 How to reach me: deputation8 at protonmail dot com
+📫 How to reach me: deputation8 (at) protonmail (dot) com
 
 😄 Pronouns: He/Him
